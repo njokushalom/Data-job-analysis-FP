@@ -1,6 +1,7 @@
 **Global Data Jobs Dashboard (2023)**
 
-<img width="1511" height="650" alt="image" src="https://github.com/user-attachments/assets/60a8c099-bb4a-473d-93b5-5943148e4d8c" />
+<img width="1498" height="659" alt="image" src="https://github.com/user-attachments/assets/c9008624-b2b1-49da-811f-71d8bd066779" />
+
 
 This dashboard provides a comprehensive analysis of global data-related job trends in 2023, offering insights into job demand, salary distribution, and the most sought-after skills in the data industry. It is designed to support data-driven decision-making for aspiring professionals, recruiters, and industry stakeholders.
 
@@ -28,7 +29,7 @@ The most in-demand skills across the dataset are:
 
 - Python (41%)
 
-- Tableau
+- Tableau (16%)
 
 These results emphasize the importance of combining programming, database management, and visualization skills to remain competitive in the data field.
 
