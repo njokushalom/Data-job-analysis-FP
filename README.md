@@ -3,6 +3,7 @@
 <img width="1511" height="650" alt="image" src="https://github.com/user-attachments/assets/60a8c099-bb4a-473d-93b5-5943148e4d8c" />
 
 This dashboard provides a comprehensive analysis of global data-related job trends in 2023, offering insights into job demand, salary distribution, and the most sought-after skills in the data industry. It is designed to support data-driven decision-making for aspiring professionals, recruiters, and industry stakeholders.
+
 **1. Job Demand Distribution**
 
 The analysis reveals that Data Analyst and Data Scientist roles dominate the job market, accounting for the highest percentage of demand. Senior-level roles follow, while niche roles such as Cloud and Software-related data positions show relatively lower demand. This highlights a strong market need for core data professionals with analytical and modeling capabilities.
